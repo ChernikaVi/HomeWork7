@@ -18,7 +18,7 @@ public class base {
             System.out.println(fig.getName() + ": perimeter = " + fig.perimeter());
              sum += fig.perimeter();
         }
-            System.out.println(sum);
+            System.out.println("The sum of the perimeter of all figures in the array: " + sum);
     }
 }
 
